@@ -1,0 +1,83 @@
+[
+    {
+      "Key": "0",
+      "Default": "It is certain"
+    },
+    {
+      "Key": "1",
+      "Default": "It is decidedly so"
+    },
+    {
+      "Key": "2",
+      "Default": "Without a doubt"
+    },
+    {
+      "Key": "3",
+      "Default": " Yes — definitely"
+    },
+    {
+      "Key": "4",
+      "Default": "You may rely on it"
+    },
+    {
+      "Key": "5",
+      "Default": "As I see it, yes"
+    },
+    {
+      "Key": "6",
+      "Default": "Most likely"
+    },
+    {
+      "Key": "7",
+      "Default": "Outlook good"
+    },
+    {
+      "Key": "8",
+      "Default": "Signs point to yes"
+    },
+    {
+      "Key": "9",
+      "Default": "Yes"
+    },
+    {
+      "Key": "10",
+      "Default": "Reply hazy, try again"
+    },
+    {
+      "Key": "11",
+      "Default": "Ask again later"
+    },
+    {
+      "Key": "12",
+      "Default": "Better not tell you now"
+    },
+    {
+      "Key": "13",
+      "Default": "Cannot predict now"
+    },
+    {
+      "Key": "14",
+      "Default": "Concentrate and ask again"
+    },
+    {
+      "Key": "15",
+      "Default": "Don't count on it"
+    },
+    {
+      "Key": "16",
+      "Default": "My reply is no"
+    },
+    {
+      "Key": "17",
+      "Default": "My sources say no"
+    },
+    {
+      "Key": "18",
+      "Default": "Outlook not so good"
+    },
+    {
+      "Key": "19",
+      "Default": "Very doubtful"
+    }
+
+]
