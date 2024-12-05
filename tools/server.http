@@ -1,0 +1,8 @@
+GET http://localhost:8087/
+
+
+
+POST http://localhost:8087/
+Content-Type: application/json
+
+< ./sample.json
